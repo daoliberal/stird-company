@@ -13,10 +13,10 @@ export function FooterSection() {
                 London, United Kingdom
               </p>
               <a
-                href="mailto:hello@stird.co.uk"
+                href="mailto:batur@stird.co.uk"
                 className="mt-1 block text-sm text-background/60 transition-colors hover:text-background"
               >
-                hello@stird.co.uk
+                batur@stird.co.uk
               </a>
             </div>
 

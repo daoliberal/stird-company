@@ -31,7 +31,7 @@ export default function Home() {
               Products
             </a>
             <a
-              href="mailto:hello@stird.co.uk"
+              href="mailto:batur@stird.co.uk"
               className="text-sm font-medium text-muted transition-colors hover:text-foreground"
             >
               Contact
