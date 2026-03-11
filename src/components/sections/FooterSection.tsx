@@ -29,7 +29,9 @@ export function FooterSection() {
                 <ul className="mt-3 space-y-2">
                   <li>
                     <a
-                      href="#products"
+                      href="https://gallery-guy-web.vercel.app/"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="text-sm text-background/60 transition-colors hover:text-background"
                     >
                       Gallery Guy
