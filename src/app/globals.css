@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #FAFAF8;
+  --color-foreground: #111110;
+  --color-muted: #6B6A68;
+  --color-section: #F2F0EC;
+  --color-border: #E5E3DF;
+  --font-sans: var(--font-inter);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--color-foreground);
+  background-color: var(--color-background);
+}
+
+::selection {
+  background-color: var(--color-foreground);
+  color: var(--color-background);
+}
