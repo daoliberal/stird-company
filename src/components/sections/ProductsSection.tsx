@@ -52,7 +52,7 @@ export function ProductsSection() {
                     Learn More
                   </a>
                   <a
-                    href="https://apps.apple.com"
+                    href="https://apps.apple.com/app/id6760911029"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 rounded-full border border-border px-5 py-2.5 text-sm font-medium text-foreground transition-colors hover:bg-section"
