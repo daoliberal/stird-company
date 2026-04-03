@@ -47,7 +47,7 @@ export function FooterSection() {
                 <ul className="mt-3 space-y-2">
                   <li>
                     <a
-                      href="https://x.com/stirdapps"
+                      href="https://x.com/Stird_co"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-sm text-background/60 transition-colors hover:text-background"
@@ -57,7 +57,7 @@ export function FooterSection() {
                   </li>
                   <li>
                     <a
-                      href="https://instagram.com/stirdapps"
+                      href="https://instagram.com/stird_co"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-sm text-background/60 transition-colors hover:text-background"
@@ -67,7 +67,17 @@ export function FooterSection() {
                   </li>
                   <li>
                     <a
-                      href="https://linkedin.com/company/stird"
+                      href="https://threads.net/@stird_co"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-sm text-background/60 transition-colors hover:text-background"
+                    >
+                      Threads
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.linkedin.com/company/stird-ltd/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-sm text-background/60 transition-colors hover:text-background"
